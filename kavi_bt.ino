@@ -74,5 +74,6 @@ SerialBT.write(Serial.read());
     }
 
   }
- 
+
 }
+//This Controlled by the Application called bt Mobile app
